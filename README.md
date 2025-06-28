@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi! saya Galih Anggito Abimanyu 👋
 
+## 🔥 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GalihAnggito&show_icons=true&theme=radical)
+
+## 🚀 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GalihAnggito&layout=compact&theme=radical)
 <!--
 **GalihAnggito/GalihAnggito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
